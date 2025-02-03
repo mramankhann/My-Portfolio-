@@ -8476,7 +8476,7 @@ h1, h2, h3, h4, h5,
           position: relative;
           z-index: -1;
           left: 100px;
-          bottom: 48px;
+          bottom: 100px;
        }
           .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
             position: absolute;
